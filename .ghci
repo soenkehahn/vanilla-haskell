@@ -1,0 +1,2 @@
+:set -itest -isrc
+:load Spec

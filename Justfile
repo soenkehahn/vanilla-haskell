@@ -7,4 +7,4 @@ test:
   stack test
 
 watch:
-  ghcid
+  ghcid --test Spec.main

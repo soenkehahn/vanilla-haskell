@@ -1,17 +1,17 @@
-name: vanilla-haskell
+name: vanilla
 
 dependencies:
   - base
 
 executables:
-  foo:
-    main: Main.hs
+  vanilla:
+    main: vanilla.hs
     source-dirs:
       - src
 
 tests:
   spec:
-    main: Spec.hs
+    main: Main.hs
     source-dirs:
       - test
       - src
