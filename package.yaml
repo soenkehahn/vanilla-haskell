@@ -2,6 +2,28 @@ name: vanilla
 
 dependencies:
   - base
+  - aeson
+  - basement
+  - cassava
+  - conduit
+  - containers
+  - foundation
+  - generics-eot
+  - getopt-generics
+  - graph-wrapper
+  - optparse-applicative
+  - pipes
+  - rio
+  - servant
+  - servant-client
+  - servant-server
+  - shake
+  - string-conversions
+  - text
+  - unordered-containers
+  - vector
+  - yaml
+  - yesod
 
 executables:
   vanilla:
@@ -17,3 +39,6 @@ tests:
       - src
     dependencies:
       - hspec
+      - mockery
+      - silently
+      - temporary
