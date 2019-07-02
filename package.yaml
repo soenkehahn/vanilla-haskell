@@ -12,6 +12,7 @@ dependencies:
   - generics-eot
   - getopt-generics
   - graph-wrapper
+  - interpolate
   - lens
   - optparse-applicative
   - pipes
