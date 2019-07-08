@@ -12,6 +12,7 @@ dependencies:
   - generics-eot
   - getopt-generics
   - graph-wrapper
+  - http-client
   - interpolate
   - lens
   - optparse-applicative
@@ -25,6 +26,8 @@ dependencies:
   - text
   - unordered-containers
   - vector
+  - wai
+  - warp
   - yaml
   - yesod
 
