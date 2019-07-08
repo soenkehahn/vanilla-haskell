@@ -1,4 +1,4 @@
-all: run test
+all: test
 
 run:
   stack run
