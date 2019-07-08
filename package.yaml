@@ -15,6 +15,7 @@ dependencies:
   - http-client
   - interpolate
   - lens
+  - MissingH
   - optparse-applicative
   - pipes
   - rio
